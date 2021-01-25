@@ -8,3 +8,7 @@ https://dribbble.com/shots/11131237-Real-estate-broker/attachments/2733403?mode=
 
 project Page
 https://dribbble.com/shots/11206263-Real-estate-broker/attachments/2812169?mode=media
+
+dlf
+primary		:#1f1a17
+secondary	:#868686
